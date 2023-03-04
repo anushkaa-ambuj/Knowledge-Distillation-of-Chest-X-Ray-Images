@@ -1,2 +1,2 @@
-# Design-Credit-Project1
-Knowledge Distillation of Chest X Ray  Images
+# Knowledge Distillation of Chest X Ray  Images
+## (Design Credit-Project1)
